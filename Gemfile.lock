@@ -36,7 +36,7 @@ GEM
       spoon (>= 0.0.1)
     paint (1.0.1)
     pg (0.19.0)
-    rack (2.0.1)
+    rack (2.2.8.1)
     rom (2.0.2)
       concurrent-ruby (~> 1.0)
       dry-equalizer (~> 0.2)
